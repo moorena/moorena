@@ -4,7 +4,7 @@ Pretty much all my work is done in private repos or secure/enterprise/corporate 
 
 This account is mostly used to access other repos.
 
-Well, I mean, I wrote a sudoko solver and a wordle solver and some other silly things that are here, but private. That's a fun way to learn a new language and stretch your brain.
+Well, I mean, I wrote a sudoko solver, a wordle solver, a word-search generator and some other silly things that are here, but private. That's a fun way to learn a new language and stretch your brain.
 
 <!--
 **moorena/moorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
