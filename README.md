@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Pretty much all my work is done in private repos or secure/enterprise/corporate repos (under different accounts), not much to show here.
-Well, I mean, I wrote a sudoko solver and a wordle solver and some other silly things. That's a fun way to learn a new language and stretch your brain.
+Pretty much all my work is done in private repos or secure/enterprise/corporate repos (under different accounts), not much to show here. 
+
+This account is mostly used to access other repos.
+
+Well, I mean, I wrote a sudoko solver and a wordle solver and some other silly things that are here, but private. That's a fun way to learn a new language and stretch your brain.
 
 <!--
 **moorena/moorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
