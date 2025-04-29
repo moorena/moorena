@@ -6,6 +6,7 @@ This account is mostly used to access other repos.
 
 Well, I mean, I wrote a sudoko solver, a wordle solver, a word-search generator and some other silly things that are here, but private. That's a fun way to learn a new language and stretch your brain.
 
+(Need to find my mexican-train domino game code and update it.. )
 <!--
 **moorena/moorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
